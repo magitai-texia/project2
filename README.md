@@ -17,6 +17,6 @@ Node.js と TypeScript で作成した、正の整数の階乗を計算するプ
 これにより、factorial.ts 内に記述されたテストコードが実行され、計算結果がコンソールに出力されます。
 
 ## 主なファイル構成
-*factorial.ts: 階乗計算関数の実装とテスト呼び出しが含まれています。
-*tsconfig.json: TypeScriptのコンパイル設定ファイルです。
-*package.json: プロジェクト情報と依存パッケージが記述されています。
+* factorial.ts: 階乗計算関数の実装とテスト呼び出しが含まれています。
+* tsconfig.json: TypeScriptのコンパイル設定ファイルです。
+* package.json: プロジェクト情報と依存パッケージが記述されています。
